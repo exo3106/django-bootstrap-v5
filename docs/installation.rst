@@ -19,3 +19,6 @@ Add to INSTALLED_APPS in your ``settings.py``:
    ``'bootstrap5',``
 
 After installation, the :doc:`quickstart` will get you on your way to using ``django-bootstrap-v5``.
+
+After the installation you can load the html tag from your template like sso 
+    ``{% laod bootstrap5 %}``
